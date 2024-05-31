@@ -1,8 +1,8 @@
-import Navbar from "./components/Navbar";
-import Banner from "./components/Banner";
-import VideoSection from "./components/VideoSection";
-import Characters from "./components/Characters";
-import Maps from "./components/Maps";
+import Navbar from "../components/Navbar";
+import Banner from "../components/Banner";
+import VideoSection from "../components/VideoSection";
+import Characters from "../components/Characters";
+import Maps from "../components/Maps";
 export default function Home() {
   return (
     <main className="flex flex-col">
